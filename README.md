@@ -1,5 +1,10 @@
 MySQL Database as a docker container on AWS EC2 instance
 
+
+<p align="center">
+<img src="https://github.com/DataCounsel/docker_mysql/assets/71335870/29a5e836-cbb5-45fd-b57f-b04f92691cd4">
+</p>
+
 ### <ins>Project Objective</ins>
 
 Using MySQL database as a docker container running in the cloud
