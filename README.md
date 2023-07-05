@@ -1,4 +1,5 @@
-MySQL Database as a docker container on AWS EC2 instance
+
+<H2 align="center">MySQL Database as a docker container on AWS EC2 instance</H2>
 
 
 <p align="center">
