@@ -21,11 +21,13 @@ For the purpose of this project, I am using AWS as the cloud provider and using 
 
 
 #### Docker container created with docker ports mapped to local ports 
-![image](https://github.com/DataCounsel/docker_mysql/assets/71335870/16c6ea40-e2b5-4817-9e07-3ebcaa57a700)
+![Mysql_container](https://github.com/DataCounsel/docker_mysql/assets/71335870/5d57c74b-b4d1-4b23-8fa8-07bba6ddc1d4)
+
 
 Mapping the ports of the Docker instance with the local EC2 instance allows the MySQL instance to be accessed from local computer.  
 
-![image](https://github.com/DataCounsel/docker_mysql/assets/71335870/48c2c475-7ee1-4605-8a54-bb70bc530552)
+![docker_volume_mounted](https://github.com/DataCounsel/docker_mysql/assets/71335870/1f300fac-125a-46e0-983b-2400904f6fc5)
+
 
 The Docker volume has been mounted to the local system to enable persistence of the data. This ensures the data would be unaffected in case a container is terminated or lost
 
